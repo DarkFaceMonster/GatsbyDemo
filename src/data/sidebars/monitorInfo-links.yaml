@@ -1,0 +1,14 @@
+- title: 监测器介绍与应用
+  items:
+    - title: 监测器介绍
+      link: /sam-it/monitorInfo/#introduction
+    - title: 监测器界面介绍
+      link: /sam-it/monitorInfo/#uiIntroduction
+    - title: 对网络设备支持
+      link: /sam-it/monitorInfo/#net
+    - title: 对服务器支持
+      link: /sam-it/monitorInfo/#server
+    - title: 对业务系统支持
+      link: /sam-it/monitorInfo/#operation
+- title: 返回上一级
+  link: /sam-it/

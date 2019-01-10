@@ -1,0 +1,68 @@
+- title: 快速上手
+  link: /quick-start/
+- title: Step 0：下载、安装和部署
+  link: /quick-start/step-0/
+- title: Step 1：系统登录
+  link: /quick-start/step-01/
+- title: Step 2：整体界面说明
+  link: /quick-start/step-02/
+- title: Step 3：添加组和移动资源
+  link: /quick-start/step-03/
+- title: Step 4：添加资源
+  link: /quick-start/step-04/
+- title: Step 5：添加监测器
+  link: /quick-start/step-05/
+- title: Step 6：添加Agent资源（可选）
+  link: /quick-start/step-06/
+- title: Step 7：添加报警
+  link: /quick-start/step-07/
+- title: Step 8：添加报表
+  link: /quick-start/step-08/
+- title: Step 9：添加visio报图
+  link: /quick-start/step-09/
+- title: Step 10：权限管理
+  link: /quick-start/step-10/
+- title: Step 11：拓扑扫描
+  link: /quick-start/step-11/
+- title: Step 12：设备管理
+  link: /quick-start/step-12/
+- title: Step 13：设备信息查询
+  link: /quick-start/step-13/
+- title: Step 14：IP管理
+  link: /quick-start/step-14/
+- title: Step 15：诊断工具
+  link: /quick-start/step-15/
+- title: Step 16：运维管理操作步骤
+  link: /quick-start/step-16/
+- title: Step 17：资产管理操作步骤
+  link: /quick-start/step-17/
+- title: Step 18：立体拓扑图
+  link: /quick-start/step-18/
+- title: Step 19：资源拓扑
+  link: /quick-start/step-19/
+- title: Step 20：资源面板
+  link: /quick-start/step-20/
+- title: 高级 Step 1：资源扫描发现
+  link: /quick-start/step-21/
+- title: 高级 Step 2：数据库替换
+  link: /quick-start/step-22/
+- title: 高级 Step 3：ITOSS性能优化
+  link: /quick-start/step-23/
+- title: 高级 Step 4：ITOSS守护进程
+  link: /quick-start/step-24/
+- title: 高级 Step 5：系统自检
+  link: /quick-start/step-25/
+- title: 高级 Step 6：远程桌面
+  link: /quick-start/step-26/
+- title: 监测器仪表板 Step 1：整体说明
+  link: /quick-start/step-27/
+- title: 监测器仪表板 Step 2：配置
+  link: /quick-start/step-28/
+- title: 监测器仪表板 Step 3：部件配置
+  link: /quick-start/step-29/
+- title: 监测器仪表盘高级配置
+  link: /quick-start/step-30/
+- title: MySQL数据库下载安装使用
+  link: /quick-start/step-31/
+- title: 集成三人即时通
+  link: /quick-start/step-32/

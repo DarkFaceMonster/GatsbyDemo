@@ -1,0 +1,14 @@
+- title: SITEVIEW SAM 服务器与应用管理
+  items: 
+    - title: 概述
+      link: /sam-it/#summary
+    - title: 主要功能
+      link: /sam-it/#mainFunction
+    - title: 监测器介绍
+      link: /sam-it/#monitor
+    - title: 系统截图
+      link: /sam-it/#screenShot
+    - title: 安装与应用需求
+      link: /sam-it/#demand
+    - title: 帮助中心
+      link: /sam-it/#FAQ
